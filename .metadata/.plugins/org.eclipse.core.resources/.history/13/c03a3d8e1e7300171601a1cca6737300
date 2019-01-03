@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<link rel="stylesheet" href="www.algo.com/algo.css" type="text/css" />
+<title>Login Page</title>
+</head>
+<body>
+	<div id="login" class="simple">
+		<form action="login.do">
+			<label for="username">Username :</label> 
+			<input id="username" type="text" /><br> 
+			<label for="password">Password :</label> 
+			<input id="password" type="password" /><br> 
+			<input id="submit" type="submit" /> 
+			<input id="reset" type="reset" />
+		</form>
+	</div>
+</body>
+</html>
